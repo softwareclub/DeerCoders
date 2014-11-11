@@ -1,0 +1,41 @@
+DeerCoders Season 2 – Session 1
+Question
+
+Write a program in C to find out the 50 random numbers (integer) between 10 and 40 (inclusive). Set of random numbers must be different on each run, so use CPU time as seed value for random number generation ( hint: srand(time(NULL)) ).
+
+Now find out the duplicate numbers in the list with its frequency (number of repetition). Your program must have below outputs in same order:
+a)      List of random numbers in a row with proper spacing.
+b)      Frequency table (or list) of duplicate numbers with its frequency as shown in example below (Note: numbers must be in ascending order and only duplicate numbers should be listed).
+c)       Finally show all the random numbers in ascending order.
+
+Sample Output
+
+Random Numbers
+13 32 24 22 32 18 17 25 40 35 31 19 27 18 23 11 40 36 24 30 30 31 26 23 38 15 34
+ 39 22 37 35 22 34 18 34 16 28 29 39 32 11 33 24 37 13 20 22 35 29 23
+ 
+R.N. --> Frequency
+11 --> 2
+13 --> 2
+18 --> 3
+22 --> 4
+23 --> 3
+24 --> 3
+29 --> 2
+30 --> 2
+31 --> 2
+32 --> 3
+34 --> 3
+35 --> 3
+37 --> 2
+39 --> 2
+40 --> 2
+ 
+Sorted Random Numbers
+ 
+11 11 13 13 15 16 17 18 18 18 19 20 22 22 22 22 23 23 23 24 24 24 25 26 27 28 29
+ 29 30 30 31 31 32 32 32 33 34 34 34 35 35 35 36 37 37 38 39 39 40 40
+
+Organizer: The Software Club
+Date: October 29,  2014
+
