@@ -1,5 +1,5 @@
 The Software Club Repository.
 
-Note
+Notes
 `````
 1. In order to download .docs files you need to click on "View Raw".
